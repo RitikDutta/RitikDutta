@@ -20,6 +20,23 @@
 
 
 
+<!-- ![chat](./media/ammohammo.gif#gh-light-mode-only)
+![chat](./media/ammohammo_dark.gif#gh-dark-mode-only) -->
+
+
+ <a href="https://github.com/RitikDutta/Company-work-environment-management" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/512/external-productivity-work-from-home-sbts2018-flat-sbts2018.png" alt="Food bot" width="40" height="40"/> Company-work-environment-management</a>
+ <br><br><br>
+ <img src="https://img.freepik.com/premium-vector/face-recognition-technology-woman-head-identification-scanner_81894-7479.jpg" align="left" width='20%'></img>
+<!-- <img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="left" width='20%'></img> -->
+- Detects whether the right person is sitting in front of the camera. 
+- Do not collect private photos of faces and pose, only the mathematical data of it.
+- Tracks key points on the face (such as eyes, mouth) to identify specific activities.
+- Classifies the type of activity the user is performing (e.g. taking a phone call, looking away from the screen, sleeping, looking tired).
+- Lightweight and runs in the browser.
+- Sends summary data about activities to a central server in JSON format, without transmitting any images or videos.
+
+<br><br><br><br><br><br>
+
 
 <img src="./media/ammohammo.gif#gh-light-mode-only" align="right" width='20%'></img>
 <img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width='20%'></img>
