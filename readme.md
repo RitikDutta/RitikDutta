@@ -26,7 +26,7 @@
  <a href="https://github.com/RitikDutta/Company-work-environment-management" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/512/external-productivity-work-from-home-sbts2018-flat-sbts2018.png" alt="Food bot" width="40" height="40"/> Company-work-environment-management</a>
  
  <br><br><br>
- <img src="face_rec.gif" align="left" width='20%'></img>
+ <img src="./media/pose_rec.gif" align="left" width='20%'></img>
  <img src="./media/face_rec.gif#gh-light-mode-only" align="right" width='20%'></img>
 <img src="./media/face_rec.gif#gh-dark-mode-only" align="right" width='20%'></img>
 <!-- <img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="left" width='20%'></img> -->
