@@ -106,8 +106,8 @@
 
 <a href="https://circleci.com#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/circleci_light.svg#gh-light-mode-only" alt="circle-ci" width="90" height="30"/> </a>
 <a href="https://circleci.com#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/circleci_dark.svg#gh-dark-mode-only" alt="circle-ci" width="90" height="30"/> </a>
-<a href="https://mlflow.org/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_light.svg#gh-light-mode-only" alt="MLflow" width="90" height="30"/> </a>
-<a href="https://mlflow.org/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_dark.svg#gh-dark-mode-only" alt="MLflow" width="90" height="30"/> </a>
+<a href="https://mlflow.org/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_dark.svg#gh-light-mode-only" alt="MLflow" width="90" height="30"/> </a>
+<a href="https://mlflow.org/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_light.svg#gh-dark-mode-only" alt="MLflow" width="90" height="30"/> </a>
 <a href="https://dvc.org/doc/use-cases/ci-cd-for-machine-learning" target="_blank" rel="noreferrer"> <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="MLflow" width="100" height="30"/> </a>
 
 <h4>Backend</h4>
@@ -120,7 +120,7 @@
 <h4>Framework</h4>
 <a href="https://flask.palletsprojects.com/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/flask_light.svg#gh-light-mode-only" alt="flask" width="90" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/flask_dark.svg#gh-dark-mode-only" alt="flask" width="90" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="./media/django.svg" alt="django" width="60" height="40"/> </a>
 
 <h4>Tools</h4>
 
