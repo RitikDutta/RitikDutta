@@ -15,7 +15,7 @@ Hello, I'm Ritik Dutta, a passionate IT professional with a Bachelor’s degree 
 
 In my professional career, I've accumulated 1.5 years of experience working at iNeuron as a Computer Vision Engineer and Full Stack Data Scientist
 
-My work includes dissecting complex deep learning models, with contributions such as articles on LeNet, AlexNet, and more published in Analytics Vidhya magazine. I've lead in advanced projects involving computer vision, NLP, and notably, automating a backend ETL pipeline that streamlined data processing workflows. My technical expertise also covers backend areeeas like CI/CD pipelines, app deployment, login authentication management, databases, and code management.
+My work includes dissecting complex deep learning models. I've lead in advanced projects involving computer vision, NLP, and notably, automating a backend ETL pipeline that streamlined data processing workflows. My technical expertise also covers backend areas like CI/CD pipelines, app deployment, login authentication management, databases, and code management with agile workflow.
 
 Beyond my professional pursuits, I'm deeply committed to social welfare. I volunteer in feeding and teaching underprivileged children, supporting their families in my city. My ultimate goal in my life is to leverage my full-stack technical skills to develop applications that benefit the public and support crucial sectors like government, defense, and the army.
 
