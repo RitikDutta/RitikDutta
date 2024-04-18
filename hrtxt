@@ -1,8 +1,6 @@
-Q: tell me about challenging situation that you faced during your job and how you solved it?
-
-A: "In my role as a Full Stack Data Scientist at iNeuron, I encountered a challenging situation while automating a backend ETL pipeline. The challenge was integrating disparate data sources with varying formats and ensuring real-time data processing without compromising the system's performance.
-
-To address this, I first conducted a thorough analysis of the existing data sources and processing workflows. I then proposed a modular design that allowed for the seamless addition and processing of different data formats. Collaborating closely with my team, we iterated on the solution, incorporating feedback and testing rigorously to ensure reliability and efficiency.
+Q: tell me about challenging situation that you faced during your job a
+a:  "In my role as a Full Stack Data Scientist at iNeuron, I encountered a challenging situation while automating a backend ETL pipeline. The challenge was integrating disparate data sources with varying formats and ensuring real-time data processing without compromising the system's performance. 
+To address this, I first conducted a thorough analysis of the existing data sources and processing workflows. I then proposed a modular design that allowed for the seamless addition and processing of different data formats. Collaborating closely with my team, we iterated on the solution, incorporating feedback and t ensure reliability and efficiency.
 
 By adopting a combination of advanced data processing techniques and optimizing our integration logic, we successfully automated the ETL pipeline, enhancing the data processing speed by over 40% and significantly reducing manual errors. This experience taught me the importance of analytical problem-solving, teamwork, and iterative development in overcoming complex challenges."
 
