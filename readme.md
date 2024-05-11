@@ -8,8 +8,11 @@
 
 ---
 ### I have technical experience and interest in -
+* Datascience
+* Backend
 * Computer vision 
-* Natural Language Processing 
+* Natural Language Processing
+* Cloud computing 
 * IOT 
 * Robotics
 <!-- * Game Designing -->
@@ -36,6 +39,38 @@
 - Classifies the type of activity the user is performing (e.g. taking a phone call, looking away from the screen, sleeping, looking tired).
 - Lightweight and runs in the browser.
 - Sends summary data about activities to a central server in JSON format, without transmitting any images or videos.
+
+<br><br><br><br><br><br>
+
+<img src="./media/datamigrato_light.jpg#gh-light-mode-only" align="left" width='50%'></img>
+<img src="./media/datamigrato_light.jpg#gh-dark-mode-only" align="left" width='50%'></img>
+
+
+<a href="https://github.com/RitikDutta/datamigrato" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="Datamigrato" width="40" height="40"/> Datamigrato </a> 
+ Datamigrato is a versatile Python package dedicated to simplifying the process of migrating data across multiple databases, including Cassandra, MongoDB, Firebase, and Firestore. Designed with scalability, ease of use, and a well-maintained code structure in mind, it offers a comprehensive solution for various data transfer strategies and optimizations, making it an ideal choice for projects of all sizes and an accessible platform for contributors.
+ <br><br><br><br>
+- **Wide Range of Database Support**: Migrate data between popular databases such as Cassandra, MongoDB, Firebase, and Firestore.
+- **Scalability**: Engineered for scalability to handle large datasets efficiently.
+- **Ease of Use**: Simplifies the migration process, reducing the complexity involved in schema conversions, CRUD operations, and connection management.
+- **Optimized Data Transfer**: Incorporates advanced data transfer strategies and optimizations to ensure fast and reliable migrations.
+- **Well-Maintained Code Structure**: The codebase is organized and documented, facilitating easy understanding and contribution by developers.
+- **CI/CD Integration**: Fully integrates into CI/CD pipelines for automated testing and deployment, ensuring code quality and reliability.
+
+<br><br><br><br><br><br>
+
+<img src="./media/interview_ready_light.png#gh-light-mode-only" align="right" width='50%'></img>
+<img src="./media/interview_ready_light.png#gh-dark-mode-only" align="right" width='50%'></img>
+
+<a href="https://github.com/RitikDutta/interview-mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="interview-ready" width="40" height="40"/> Interview Ready </a> 
+ Discover a new way to prepare for interviews with our AI-Powered Mock Interview Platform. Engage in realistic simulations, receive instant feedback and scores, and enjoy a seamless experience with Google authentication and Firestore database integration, all within a user-friendly Flask-based web app.
+ <br><br><br><br>
+- **AI-Powered Mock Interviews**: Tailored questions and feedback based on the user's domain and background.
+- **Personalized Experience**: Users can create personalized profiles with preferences for interviewer characteristics such as gender and language (English or Hindi), enhancing the customization of the practice sessions.
+- **Intelligent Scoring System**: Scores responses out of 10, with handling for non-applicable scenarios.
+- **High-Level Security**: Features Google authentication and robust session management to secure user data.
+- **Real Interview Simulation**: Offers mock interviews that replicate actual job interview scenarios in various domains such as IT, business management, psychology, civil services, and more.
+- **Progress Tracking**: Saves user progress for future sessions and provides visual progress indicators.
+- **User-Friendly Interface**: Seamless interaction with the AI assistant, with a clean and intuitive user interface.
 
 <br><br><br><br><br><br>
 
