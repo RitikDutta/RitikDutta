@@ -26,7 +26,7 @@
 
 
 
- <a href="https://github.com/RitikDutta/Company-work-environment-management" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/512/external-productivity-work-from-home-sbts2018-flat-sbts2018.png" alt="Food bot" width="40" height="40"/> Company-work-environment-management</a>
+ ## <a href="https://github.com/RitikDutta/Company-work-environment-management" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/512/external-productivity-work-from-home-sbts2018-flat-sbts2018.png" alt="Food bot" width="40" height="40"/> Company-work-environment-management</a>
  
  <br><br><br>
  <img src="./media/pose_rec.gif" align="left" width='20%'></img>
@@ -46,7 +46,7 @@
 <img src="./media/datamigrato_light.jpg#gh-dark-mode-only" align="right" width='50%'></img>
 
 
-<a href="https://github.com/RitikDutta/datamigrato" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="Datamigrato" width="40" height="40"/> Datamigrato </a> 
+## <a href="https://github.com/RitikDutta/datamigrato" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="Datamigrato" width="40" height="40"/> Datamigrato </a> <br>
  Datamigrato is a versatile Python package dedicated to simplifying the process of migrating data across multiple databases, including Cassandra, MongoDB, Firebase, and Firestore. Designed with scalability, ease of use, and a well-maintained code structure in mind, it offers a comprehensive solution for various data transfer strategies and optimizations, making it an ideal choice for projects of all sizes and an accessible platform for contributors.
  <br><br><br><br>
 - **Wide Range of Database Support**: Migrate data between popular databases such as Cassandra, MongoDB, Firebase, and Firestore.
@@ -61,7 +61,7 @@
 <img src="./media/interview_ready_light.png#gh-light-mode-only" align="right" width='50%'></img>
 <img src="./media/interview_ready_light.png#gh-dark-mode-only" align="right" width='50%'></img>
 
-<a href="https://github.com/RitikDutta/interview_mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="interview-ready" width="40" height="40"/> Interview Ready </a> 
+## <a href="https://github.com/RitikDutta/interview_mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="interview-ready" width="40" height="40"/> Interview Ready </a> <br>
  Discover a new way to prepare for interviews with our AI-Powered Mock Interview Platform. Engage in realistic simulations, receive instant feedback and scores, and enjoy a seamless experience with Google authentication and Firestore database integration, all within a user-friendly Flask-based web app.
  <br><br><br><br>
 - **AI-Powered Mock Interviews**: Tailored questions and feedback based on the user's domain and background.
@@ -83,7 +83,7 @@
 
 
 
-<a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849551.png" alt="Food bot" width="40" height="40"/> Food Delivery Chatbot </a> 
+## <a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849551.png" alt="Food bot" width="40" height="40"/> Food Delivery Chatbot </a> 
 - This chatbot is designed to help you manage your inventory and track your sales. You can use it to keep track of your customers and their orders, so you can see which items are selling more this month and adjust your inventory To get started, type "add customer" into the chatbot and follow the instructions. Then, type "add product" and follow the instructions. Once you have added a customer and a product, you can track their orders by typing "track customer" and "track product." The chatbot will show you a list of all the orders that your customer has placed, as well as how many of each product they have ordered. 
 - keeping track of your inventory.
 - tracking your sales.
