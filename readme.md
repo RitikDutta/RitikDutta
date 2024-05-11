@@ -42,11 +42,13 @@
 
 <br><br><br><br><br><br>
 
-<img src="./media/datamigrato_light.jpg#gh-light-mode-only" align="right" width='50%'></img>
-<img src="./media/datamigrato_light.jpg#gh-dark-mode-only" align="right" width='50%'></img>
+
 
 
 ## <a href="https://github.com/RitikDutta/datamigrato" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="Datamigrato" width="40" height="40"/> Datamigrato </a> <br>
+<img src="./media/datamigrato_light.jpg#gh-light-mode-only" align="right" width='50%'></img>
+<img src="./media/datamigrato_light.jpg#gh-dark-mode-only" align="right" width='50%'></img>
+
  Datamigrato is a versatile Python package dedicated to simplifying the process of migrating data across multiple databases, including Cassandra, MongoDB, Firebase, and Firestore. Designed with scalability, ease of use, and a well-maintained code structure in mind, it offers a comprehensive solution for various data transfer strategies and optimizations, making it an ideal choice for projects of all sizes and an accessible platform for contributors.
  <br><br><br><br>
 - **Wide Range of Database Support**: Migrate data between popular databases such as Cassandra, MongoDB, Firebase, and Firestore.
@@ -58,10 +60,11 @@
 
 <br><br><br><br><br><br>
 
+
+## <a href="https://github.com/RitikDutta/interview_mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="interview-ready" width="40" height="40"/> Interview Ready </a> <br>
 <img src="./media/interview_ready_light.png#gh-light-mode-only" align="right" width='50%'></img>
 <img src="./media/interview_ready_light.png#gh-dark-mode-only" align="right" width='50%'></img>
 
-## <a href="https://github.com/RitikDutta/interview_mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="interview-ready" width="40" height="40"/> Interview Ready </a> <br>
  Discover a new way to prepare for interviews with our AI-Powered Mock Interview Platform. Engage in realistic simulations, receive instant feedback and scores, and enjoy a seamless experience with Google authentication and Firestore database integration, all within a user-friendly Flask-based web app.
  <br><br><br><br>
 - **AI-Powered Mock Interviews**: Tailored questions and feedback based on the user's domain and background.
@@ -75,15 +78,13 @@
 <br><br><br><br><br><br>
 
 
-<img src="./media/ammohammo.gif#gh-light-mode-only" align="right" width='20%'></img>
-<img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width='20%'></img>
-
 <!-- ![chat](./media/ammohammo.gif#gh-light-mode-only)
 ![chat](./media/ammohammo_dark.gif#gh-dark-mode-only) -->
 
 
-
 ## <a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849551.png" alt="Food bot" width="40" height="40"/> Food Delivery Chatbot </a> 
+<img src="./media/ammohammo.gif#gh-light-mode-only" align="right" width='20%'></img>
+<img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width='20%'></img>
 - This chatbot is designed to help you manage your inventory and track your sales. You can use it to keep track of your customers and their orders, so you can see which items are selling more this month and adjust your inventory To get started, type "add customer" into the chatbot and follow the instructions. Then, type "add product" and follow the instructions. Once you have added a customer and a product, you can track their orders by typing "track customer" and "track product." The chatbot will show you a list of all the orders that your customer has placed, as well as how many of each product they have ordered. 
 - keeping track of your inventory.
 - tracking your sales.
@@ -91,9 +92,9 @@
 - You can checkout the test chatbot for this project at [Telegram](https://web.telegram.org/z/#1203590128) or search for @Foodtest2bot from mobile app.
 - You can see sheet being updated as you add items in your order [here](https://docs.google.com/spreadsheets/d/1GPMEzuC_28VxZelBfd1c9iqO6Gocbkl5SM-QqbPwYnc/edit#gid=0).
 
+<br><br><br><br><br><br>
+
 ---
-
-
 
 <h3 align="center">Languages and Tools:</h3>
 
