@@ -42,8 +42,8 @@
 
 <br><br><br><br><br><br>
 
-<img src="./media/datamigrato_light.jpg#gh-light-mode-only" align="left" width='50%'></img>
-<img src="./media/datamigrato_light.jpg#gh-dark-mode-only" align="left" width='50%'></img>
+<img src="./media/datamigrato_light.jpg#gh-light-mode-only" align="ight" width='50%'></img>
+<img src="./media/datamigrato_light.jpg#gh-dark-mode-only" align="right" width='50%'></img>
 
 
 <a href="https://github.com/RitikDutta/datamigrato" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="Datamigrato" width="40" height="40"/> Datamigrato </a> 
@@ -61,7 +61,7 @@
 <img src="./media/interview_ready_light.png#gh-light-mode-only" align="right" width='50%'></img>
 <img src="./media/interview_ready_light.png#gh-dark-mode-only" align="right" width='50%'></img>
 
-<a href="https://github.com/RitikDutta/interview-mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="interview-ready" width="40" height="40"/> Interview Ready </a> 
+<a href="https://github.com/RitikDutta/interview_mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="interview-ready" width="40" height="40"/> Interview Ready </a> 
  Discover a new way to prepare for interviews with our AI-Powered Mock Interview Platform. Engage in realistic simulations, receive instant feedback and scores, and enjoy a seamless experience with Google authentication and Firestore database integration, all within a user-friendly Flask-based web app.
  <br><br><br><br>
 - **AI-Powered Mock Interviews**: Tailored questions and feedback based on the user's domain and background.
