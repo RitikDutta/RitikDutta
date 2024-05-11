@@ -42,7 +42,7 @@
 
 <br><br><br><br><br><br>
 
-<img src="./media/datamigrato_light.jpg#gh-light-mode-only" align="ight" width='50%'></img>
+<img src="./media/datamigrato_light.jpg#gh-light-mode-only" align="right" width='50%'></img>
 <img src="./media/datamigrato_light.jpg#gh-dark-mode-only" align="right" width='50%'></img>
 
 
