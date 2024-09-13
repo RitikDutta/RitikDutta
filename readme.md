@@ -1,217 +1,234 @@
-<h1 align="center">Hey It's Ritik</h1>
+<!-- Header -->
+<h1 align="center">Hi there, I'm Ritik Dutta 👋</h1>
+<h3 align="center">Data Scientist • AI Engineer • Full-Stack Developer</h3>
 
-><h2>Founder and  Working in in my tech-startup [WellBaked.tech] providing AI/ML solutions.
-[WellBaked.tech](https://wellbakedtechteam.github.io/wellbakedtech)
-
-<br>
-</h2>
-
----
-### I have technical experience and interest in -
-* Datascience
-* Backend
-* Computer vision 
-* Natural Language Processing
-* Cloud computing 
-* IOT 
-* Robotics
-<!-- * Game Designing -->
-
----
-### Projects
-
-
-
-
-
-
-
- ## <a href="https://github.com/RitikDutta/Company-work-environment-management" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/512/external-productivity-work-from-home-sbts2018-flat-sbts2018.png" alt="Food bot" width="40" height="40"/> Company-work-environment-management</a>
- 
- <br><br><br>
- <img src="./media/pose_rec.gif" align="left" width='20%'></img>
- <img src="./media/face_rec.gif#gh-light-mode-only" align="right" width='20%'></img>
-<img src="./media/face_rec.gif#gh-dark-mode-only" align="right" width='20%'></img>
-<!-- <img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="left" width='20%'></img> -->
-- Detects whether the right person is sitting in front of the camera. 
-- Do not collect private photos of faces and pose, only the mathematical data of it.
-- Tracks key points on the face (such as eyes, mouth) to identify specific activities.
-- Classifies the type of activity the user is performing (e.g. taking a phone call, looking away from the screen, sleeping, looking tired).
-- Lightweight and runs in the browser.
-- Sends summary data about activities to a central server in JSON format, without transmitting any images or videos.
-
-<br><br><br><br><br><br>
-
-
-
-
-## <a href="https://github.com/RitikDutta/datamigrato" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="Datamigrato" width="40" height="40"/> Datamigrato </a> <br>
-<img src="./media/datamigrato_light.jpg#gh-light-mode-only" align="right" width='50%'></img>
-<img src="./media/datamigrato_light.jpg#gh-dark-mode-only" align="right" width='50%'></img>
-
- Datamigrato is a versatile Python package dedicated to simplifying the process of migrating data across multiple databases, including Cassandra, MongoDB, Firebase, and Firestore. Designed with scalability, ease of use, and a well-maintained code structure in mind, it offers a comprehensive solution for various data transfer strategies and optimizations, making it an ideal choice for projects of all sizes and an accessible platform for contributors.
- <br><br><br><br>
-- **Wide Range of Database Support**: Migrate data between popular databases such as Cassandra, MongoDB, Firebase, and Firestore.
-- **Scalability**: Engineered for scalability to handle large datasets efficiently.
-- **Ease of Use**: Simplifies the migration process, reducing the complexity involved in schema conversions, CRUD operations, and connection management.
-- **Optimized Data Transfer**: Incorporates advanced data transfer strategies and optimizations to ensure fast and reliable migrations.
-- **Well-Maintained Code Structure**: The codebase is organized and documented, facilitating easy understanding and contribution by developers.
-- **CI/CD Integration**: Fully integrates into CI/CD pipelines for automated testing and deployment, ensuring code quality and reliability.
-
-<br><br><br><br><br><br>
-
-
-## <a href="https://github.com/RitikDutta/interview_mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="interview-ready" width="40" height="40"/> Interview Ready </a> <br>
-<img src="./media/interview_ready_light.png#gh-light-mode-only" align="right" width='50%'></img>
-<img src="./media/interview_ready_light.png#gh-dark-mode-only" align="right" width='50%'></img>
-
- Discover a new way to prepare for interviews with our AI-Powered Mock Interview Platform. Engage in realistic simulations, receive instant feedback and scores, and enjoy a seamless experience with Google authentication and Firestore database integration, all within a user-friendly Flask-based web app.
- <br><br><br><br>
-- **AI-Powered Mock Interviews**: Tailored questions and feedback based on the user's domain and background.
-- **Personalized Experience**: Users can create personalized profiles with preferences for interviewer characteristics such as gender and language (English or Hindi), enhancing the customization of the practice sessions.
-- **Intelligent Scoring System**: Scores responses out of 10, with handling for non-applicable scenarios.
-- **High-Level Security**: Features Google authentication and robust session management to secure user data.
-- **Real Interview Simulation**: Offers mock interviews that replicate actual job interview scenarios in various domains such as IT, business management, psychology, civil services, and more.
-- **Progress Tracking**: Saves user progress for future sessions and provides visual progress indicators.
-- **User-Friendly Interface**: Seamless interaction with the AI assistant, with a clean and intuitive user interface.
-
-<br><br><br><br><br><br>
-
-
-<!-- ![chat](./media/ammohammo.gif#gh-light-mode-only)
-![chat](./media/ammohammo_dark.gif#gh-dark-mode-only) -->
-
-
-## <a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849551.png" alt="Food bot" width="40" height="40"/> Food Delivery Chatbot </a> 
-<img src="./media/ammohammo.gif#gh-light-mode-only" align="right" width='20%'></img>
-<img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width='20%'></img>
-- This chatbot is designed to help you manage your inventory and track your sales. You can use it to keep track of your customers and their orders, so you can see which items are selling more this month and adjust your inventory To get started, type "add customer" into the chatbot and follow the instructions. Then, type "add product" and follow the instructions. Once you have added a customer and a product, you can track their orders by typing "track customer" and "track product." The chatbot will show you a list of all the orders that your customer has placed, as well as how many of each product they have ordered. 
-- keeping track of your inventory.
-- tracking your sales.
-- seeing which items are selling more this month.
-- You can checkout the test chatbot for this project at [Telegram](https://web.telegram.org/z/#1203590128) or search for @Foodtest2bot from mobile app.
-- You can see sheet being updated as you add items in your order [here](https://docs.google.com/spreadsheets/d/1GPMEzuC_28VxZelBfd1c9iqO6Gocbkl5SM-QqbPwYnc/edit#gid=0).
-
-<br><br><br><br><br><br>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-
-<h4>Programming Languages</h4>
-
-<p align="left"> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-
-<h4>AI/ML Tools</h4>
-
-<a href="https://pytorch.org/#gh-light-mode-only" target="_blank"> <img src="./media/pytorch_light.svg#gh-light-mode-only" alt="pytorch" width="90" height="40"/> </a>
-<a href="https://pytorch.org/#gh-dark-mode-only" target="_blank"> <img src="./media/pytorch_dark.svg#gh-dark-mode-only" alt="pytorch" width="90" height="40"/> </a> 
-<a href="https://scikit-learn.org/#gh-light-mode-only" target="_blank"> <img src="./media/sklearn_light.svg#gh-light-mode-only" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/#gh-dark-mode-only" target="_blank"> <img src="./media/sklearn_dark.svg#gh-dark-mode-only" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="90" height="40"/> </a>
-<a href="https://opencv.org/https://scikit-learn.org/#gh-light-mode-only" target="_blank"> <img src="./media/opencv_light.svg#gh-light-mode-only" alt="opencv" width="90" height="40"/> </a> 
-<a href="https://opencv.org/https://scikit-learn.org/#gh-dark-mode-only" target="_blank"> <img src="./media/opencv_dark.svg#gh-dark-mode-only" alt="opencv" width="90" height="40"/> </a> 
-
-<h4>NLP</h4>
-<a href="https://cloud.google.com/dialogflow/docs#gh-light-mode-only" target="_blank"> <img src="./media/dialogflow_light.svg#gh-light-mode-only" alt="dialogflow" width="80" height="60"/> </a>
-<a href="https://cloud.google.com/dialogflow/docs#gh-dark-mode-only" target="_blank"> <img src="./media/dialogflow_dark.svg#gh-dark-mode-only" alt="dialogflow" width="80" height="60"/> </a>
-<!-- <a href="https://rasa.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rasa_nlu_horizontal_purple.svg" alt="rasa" width="70" height="60"/> </a>
-<a href="https://aws.amazon.com/lex/#gh-light-mode-only" target="_blank"> <img src="./media/amazonlex_light.svg#gh-light-mode-only" alt="lex" width="100" height="60"/> </a>
-<a href="https://aws.amazon.com/lex/#gh-dark-mode-only" target="_blank"> <img src="./media/amazonlex_dark.svg#gh-dark-mode-only" alt="lex" width="100" height="60"/> </a> -->
-
-<h4>Database</h4>
-
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" width="90" height="50"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="50"/> </a> 
-<!-- <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="90" height="50"/> </a>  -->
-
-<h4>Devops</h4>
-
-<a href="https://aws.amazon.com/#gh-light-mode-only" target="_blank"> <img src="./media/aws_light.svg#gh-light-mode-only" alt="aws" width="90" height="50"/> </a> 
-<a href="https://aws.amazon.com/#gh-dark-mode-only" target="_blank"> <img src="./media/aws_dark.svg#gh-dark-mode-only" alt="aws" width="90" height="50"/> </a> 
-<!-- <a href="https://www.jenkins.io#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/jenkins_light.svg#gh-light-mode-only" alt="jenkins" width="90" height="40"/> </a>
-<a href="https://www.jenkins.io#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/jenkins_dark.svg#gh-dark-mode-only" alt="jenkins" width="90" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="80" height="40"/> </a>
-<a href="https://kubernetes.io#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/kuber_light.svg#gh-light-mode-only" alt="kubernetes" width="90" height="50"/> </a>
-<a href="https://kubernetes.io#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/kuber_dark.svg#gh-dark-mode-only" alt="kubernetes" width="90" height="50"/> </a> -->
-
-<a href="https://circleci.com#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/circleci_light.svg#gh-light-mode-only" alt="circle-ci" width="90" height="30"/> </a>
-<a href="https://circleci.com#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/circleci_dark.svg#gh-dark-mode-only" alt="circle-ci" width="90" height="30"/> </a>
-<a href="https://mlflow.org/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_dark.svg#gh-light-mode-only" alt="MLflow" width="90" height="30"/> </a>
-<a href="https://mlflow.org/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_light.svg#gh-dark-mode-only" alt="MLflow" width="90" height="30"/> </a>
-<a href="https://dvc.org/doc/use-cases/ci-cd-for-machine-learning" target="_blank" rel="noreferrer"> <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="MLflow" width="100" height="30"/> </a>
-
-<h4>Backend</h4>
-
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="90" height="40"/> </a>
-<a href="https://aws.amazon.com/#gh-light-mode-only" target="_blank"> <img src="./media/aws_light.svg#gh-light-mode-only" alt="aws" width="90" height="50"/> </a> 
-<a href="https://aws.amazon.com/#gh-dark-mode-only" target="_blank"> <img src="./media/aws_dark.svg#gh-dark-mode-only" alt="aws" width="90" height="50"/> </a>  
-<!-- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a> -->
-
-<h4>Framework</h4>
-<a href="https://flask.palletsprojects.com/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/flask_light.svg#gh-light-mode-only" alt="flask" width="90" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/flask_dark.svg#gh-dark-mode-only" alt="flask" width="90" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="./media/django.svg" alt="django" width="60" height="40"/> </a>
-
-<h4>Tools</h4>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="90" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="90" height="40"/> </a>
-
-<h4>IOT/Automation</h4>
-
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="arduino" width="80" height="40"/> </a>
-<a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="80" height="40"/> </a>
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-ar21.svg" alt="zapier" width="90" height="40"/> </a>
-
-<h4>Extras</h4> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/#gh-light-mode-only" target="_blank"> <img src="./media/git_light.svg#gh-light-mode-only" alt="git" width="80" height="40"/> </a> 
-<a href="https://git-scm.com/#gh-dark-mode-only" target="_blank"> <img src="./media/git_dark.svg#gh-dark-mode-only" alt="git" width="80" height="40"/> </a> 
-<a href="https://www.linux.org/#gh-light-mode-only" target="_blank"> <img src="./media/linux_light.svg#gh-light-mode-only" alt="linux" width="90" height="40"/> </a> 
-<a href="https://www.linux.org/#gh-dark-mode-only" target="_blank"> <img src="./media/linux_dark.svg#gh-dark-mode-only" alt="linux" width="90" height="40"/> </a> 
- 
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="mailto:ritikduttagd@gmail.com"><img src="https://img.shields.io/badge/-ritikduttagd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ritik-dutta-6037a6173/"><img src="https://img.shields.io/badge/-Ritik%20Dutta-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/RitikDutta7"><img src="https://img.shields.io/badge/-@RitikDutta7-1ca0f1?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/wellbakedtech"><img src="https://img.shields.io/badge/-@wellbakedtech-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+  <a href="https://github.com/RitikDutta"><img src="https://img.shields.io/badge/-@RitikDutta-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://ritikdutta.com"><img src="https://img.shields.io/badge/-RitikDutta.com-FF7139?style=flat&logo=Firefox&logoColor=white"></a>
 </p>
 
-### My Hobbies and interests -
-* IOT
-* Sketching
-* Story Writing
-* Game Designing
+---
 
-### 📝 My Articles are published on world's leading DataScience publication [Analytics Vidhya](https://medium.com/analytics-vidhya/alexnet-in-a-nutshell-4a9445e92d6d)
+<!-- About Me -->
+## 🙋‍♂️ About Me
 
-### 📝 You can find my other articles on [medium](https://medium.com/@ritikduttagd)
-## Some of my articles are:
-### - [Lenet Explained](https://medium.com/@ritikduttagd/lenet-in-a-nutshell-2303330cc7db)
-### - [K-Means Explained](https://medium.com/@ritikduttagd/k-means-in-a-nutshell-6d06c7a78ff7)
-### - [Principal Component Analysis](https://medium.com/@ritikduttagd/principal-component-analysis-pca-in-a-nutshell-6e422e1bb529)
+- 🔭 I’m currently working on **AI and Machine Learning Solutions** at [WellBaked.tech](https://wellbakedtechteam.github.io/wellbakedtech)
+- 🌱 I’m currently learning **Reinforcement Learning and Advanced AI Techniques**
+- 👯 I’m looking to collaborate on **Open Source AI/ML Projects**
+- 🤔 I’m looking for help with **Scaling AI Applications**
+- 💬 Ask me about **Data Science, Computer Vision, NLP, Cloud Computing, IoT, Robotics**
+- 📫 How to reach me: **ritikduttagd@gmail.com**
+- ⚡ Fun fact: **I love sketching, game designing, making IoT-based projects and automating things, and I love to explore space and the universe!**
 
-#### You can also find me on- 
+---
 
-[<img align="left" alt="Ritik | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Ritik | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Ritik | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="Ritik | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="Ritik | Github" width="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />][Github]
+<!-- Skills -->
+## 🛠️ My Tech Stack
 
+### 💻 Programming & Markup Languages
 
-<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-<hr>
+### 🚀 Frameworks & Libraries
 
-[linkedin]: https://www.linkedin.com/in/ritik-dutta-6037a6173/
-[twitter]: https://twitter.com/RitikDutta7
-[Instagram]: https://www.instagram.com/wellbakedtech
-[YouTube]: https://www.youtube.com/channel/UCVnpiOjYyDE_Z4seJ5MyKXQ
-[Github]: https://github.com/RitikDutta
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-4B8BBE?style=flat-square&logo=Chainlink&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 
+### ☁️ Cloud & Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikdutta&" alt="ritikdutta" /></p>
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=Apache-Cassandra&logoColor=white)
+
+### 🧰 DevOps & CI/CD
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white)
+
+---
+
+<!-- Projects -->
+## 🚀 Projects
+
+### <a href="https://github.com/RitikDutta/Company-work-environment-management" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/512/external-productivity-work-from-home-sbts2018-flat-sbts2018.png" alt="CWEM" width="40" height="40"/> Company Work Environment Management</a>
+
+<br><br><br>
+
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/pose_rec.gif" align="left" width="20%"></img>
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/face_rec.gif#gh-light-mode-only" align="right" width="20%"></img>
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/face_rec.gif#gh-dark-mode-only" align="right" width="20%"></img>
+
+- **Objective:** Develop an AI-powered system to monitor employee productivity and ensure security.
+- **Features:**
+  - 🔒 **Facial Recognition:** Verifies that the authorized person is at the workstation.
+  - 🕵️‍♂️ **Activity Monitoring:** Tracks facial expressions and body language to classify activities such as:
+    - Taking phone calls 📞
+    - Looking away from the screen 👀
+    - Sleeping 😴
+    - Signs of fatigue 😫
+  - 📊 **Data Privacy:** Does not store images or videos; only mathematical data is used.
+  - 🌐 **Browser-Based:** Lightweight application that runs in the browser.
+  - ☁️ **Data Transmission:** Sends activity summaries to a central server in JSON format.
+  - 🗄️ **Database Maintenance:** Maintains the database and keeps track of all activities.
+  - 🔄 **CI/CD Pipeline:** Maintained with CI/CD pipeline using Docker and AWS EC2.
+  - 🧠 **Cloud Training:** Allows training of new faces; the model trains on the cloud itself.
+- **Technologies Used:** TensorFlow, OpenCV, Flask, AWS, NoSQL Databases, Docker, CI/CD Tools.
+
+<br><br><br><br><br><br>
+
+---
+
+### <a href="https://github.com/RitikDutta/interview_mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="Interview Mentor" width="40" height="40"/> Interview Mentor</a>
+
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/interview_ready_light.png#gh-light-mode-only" align="right" width="50%"></img>
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/interview_ready_dark.png#gh-dark-mode-only" align="right" width="50%"></img>
+
+Discover a new way to prepare for interviews with our AI-Powered Mock Interview Platform. Engage in realistic simulations, receive instant feedback and scores, and enjoy a seamless experience with Google authentication and Firestore database integration, all within a user-friendly Flask-based web app.
+
+<br><br><br><br>
+
+- **Features:**
+  - 🤖 **AI Simulation:** Uses OpenAI GPT and Google Gemini models to simulate real interview scenarios.
+  - 📝 **Personalized Feedback:** Provides instant feedback and intelligent scoring out of 10.
+  - 🔒 **Secure Authentication:** Implements Google OAuth and Flask for secure session management.
+  - 📊 **Progress Tracking:** Saves user progress and offers visual indicators for improvement.
+  - 🌐 **User-Friendly Interface:** Clean and intuitive design for seamless interaction.
+- **Technologies Used:** Flask, OpenAI GPT, Google Gemini, Firebase Cloud Firestore, Google Cloud Platform.
+
+<br><br><br><br><br><br>
+
+---
+
+### <a href="https://github.com/RitikDutta/datamigrato" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="DataMigrato" width="40" height="40"/> DataMigrato</a>
+
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/datamigrato_light.jpg#gh-light-mode-only" align="right" width="50%"></img>
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/datamigrato_light.jpg#gh-dark-mode-only" align="right" width="50%"></img>
+
+**DataMigrato** is a versatile Python package dedicated to simplifying the process of migrating data across multiple databases, including Cassandra, MongoDB, Firebase, and Firestore. Designed with scalability, ease of use, and a well-maintained code structure in mind, it offers a comprehensive solution for various data transfer strategies and optimizations, making it an ideal choice for projects of all sizes and an accessible platform for contributors.
+
+<br><br><br><br>
+
+- **Features:**
+  - 🗄️ **Database Support:** Migrate data between Cassandra, MongoDB, Firebase, and Firestore.
+  - ⚡ **Optimized Performance:** Advanced data transfer strategies reduce migration time.
+  - 🛠️ **Ease of Use:** Simplifies complex schema conversions, CRUD operations, and connection management.
+  - 🧹 **High Code Quality:** Well-documented and organized codebase with CI/CD pipelines.
+  - 🚀 **Streamlined Workflow:** Reduces complex data migration processes to just three lines of code.
+- **Technologies Used:** Python, CI/CD Tools, NoSQL Databases.
+
+<br><br><br><br><br><br>
+
+---
+
+### <a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849551.png" alt="Food Bot" width="40" height="40"/> Food Delivery Chatbot</a>
+
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/ammohammo.gif#gh-light-mode-only" align="right" width="20%"></img>
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width="20%"></img>
+
+- **Objective:** Develop a chatbot to manage inventory and track sales for food delivery services.
+- **Features:**
+  - 🤖 **Chatbot Interface:** Users can add customers, products, and track orders via chat.
+  - 📦 **Inventory Management:** Keeps track of inventory levels in real-time.
+  - 📊 **Sales Analytics:** Provides insights into top-selling items and sales trends.
+  - ☁️ **Google Sheets Integration:** Updates are reflected in Google Sheets for easy data management.
+  - 🔗 **Telegram Bot:** Accessible via Telegram (@Foodtest2bot) for easy interaction.
+- **Technologies Used:** Dialogflow, Telegram API, Python, Google Sheets API.
+
+<br><br><br><br><br><br>
+
+---
+
+<!-- Experience -->
+## 💼 Experience
+
+### 🏢 **Animal Badge Marketing** | *Backend Developer / Tech Lead*
+*July 2023 – Present | Ajmer, Rajasthan*
+
+- 👨‍💻 Leading a diverse team specializing in web development, backend cloud deployment, AI/ML development, database management, and marketing strategies.
+- 🚀 Developed an **employee management solution** that manages attendance, task assignment, punctuality, holidays, and other aspects of employee management.
+- 🛠️ Implemented robust backend systems to streamline HR processes and improve operational efficiency.
+- ☁️ Deployed solutions on cloud platforms ensuring scalability and reliability.
+- 🤝 Collaborated with cross-functional teams to integrate the solution into existing workflows.
+
+### 🏢 **Ineuron** | *Computer Vision Engineer Intern*
+*March 2022 – June 2023 | Bangalore, Karnataka*
+
+- 🤖 Developed computer vision models for object detection, face recognition, and image classification using **TensorFlow** and **PyTorch**.
+- 🛠️ Deployed models to production using **Flask**, managing data with **NoSQL databases**.
+- 🤝 Collaborated with cross-functional teams to integrate models into larger machine learning pipelines.
+- ☁️ Deployed machine learning pipelines on **AWS** and **GCP**.
+- 🔄 Developed **CI/CD pipelines** for automated testing and deployment.
+- 📈 **[CWEM Project](https://github.com/RitikDutta/Company-work-environment-management):** Utilized facial recognition to monitor employee productivity, ensuring the right person is at the workstation and automating daily database records.
+
+---
+
+<!-- Certifications -->
+## 🎓 Certifications
+
+- 🏅 **Ineuron Certified Jenkins Engineer** *(Dec 2022)*
+  - Credential ID: *0a9b7424-b4c8-40dc-a83e-76c73d15eec6*
+- 🏅 **Machine Learning Bootcamp** *(Jan 2019)* - LearnCodeOnline
+  - Credential ID: *644711180552410546*
+
+---
+
+<!-- Volunteer Work -->
+## 🤝 Volunteer Initiatives
+
+### 🌟 **Robin Hood Army**
+
+- 🍲 **Mission:** Providing education and nourishment to underprivileged children.
+- 🤗 Actively involved in organizing food drives and educational workshops.
+
+---
+
+<!-- Achievements -->
+## 🏆 Professional Engagement & Achievements
+
+- 📝 **Published Articles:** Contributed insightful articles on AI and Machine Learning.
+  - Medium: [ritikdutta-com.medium.com](https://ritikdutta-com.medium.com/)
+- 🎖️ **Hackathon Participant:** Engaged in multiple hackathons focusing on AI solutions.
+
+---
+
+<!-- Hobbies -->
+## 🎨 Hobbies & Interests
+
+- 🤖 **IoT and Robotics Enthusiast**
+- ✏️ **Sketch Artist**
+- 📖 **Story Writer**
+- 🎮 **Game Designer**
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RitikDutta&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RitikDutta&theme=radical" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  💡 "Innovation distinguishes between a leader and a follower." – Steve Jobs
+</p>
