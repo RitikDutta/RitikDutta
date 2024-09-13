@@ -5,7 +5,7 @@
 <!-- Social Media Badges -->
 <p align="center">
   <a href="mailto:ritikduttagd@gmail.com"><img src="https://img.shields.io/badge/-ritikduttagd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ritik-dutta-6037a6173/"><img src="https://img.shields.io/badge/-Ritik%20Dutta-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ritikdutta/"><img src="https://img.shields.io/badge/-Ritik%20Dutta-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/RitikDutta7"><img src="https://img.shields.io/badge/-@RitikDutta7-1ca0f1?style=flat&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/wellbakedtech"><img src="https://img.shields.io/badge/-@wellbakedtech-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
   <a href="https://github.com/RitikDutta"><img src="https://img.shields.io/badge/-@RitikDutta-181717?style=flat&logo=github&logoColor=white"></a>
