@@ -103,8 +103,8 @@
 
 ### <a href="https://github.com/RitikDutta/interview_mentor" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="Interview Mentor" width="40" height="40"/> Interview Mentor</a>
 
-<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/interview_ready_light.png#gh-light-mode-only" align="right" width="50%"></img>
-<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/interview_ready_dark.png#gh-dark-mode-only" align="right" width="50%"></img>
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/interview_ready_light2.png#gh-light-mode-only" align="right" width="50%"></img>
+<img src="https://github.com/RitikDutta/RitikDutta/raw/master/media/interview_ready_light2.png#gh-dark-mode-only" align="right" width="50%"></img>
 
 Discover a new way to prepare for interviews with our AI-Powered Mock Interview Platform. Engage in realistic simulations, receive instant feedback and scores, and enjoy a seamless experience with Google authentication and Firestore database integration, all within a user-friendly Flask-based web app.
 
