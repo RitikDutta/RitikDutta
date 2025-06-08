@@ -17,46 +17,52 @@
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **AI and Machine Learning Solutions** at [WellBaked.tech](https://wellbakedtechteam.github.io/wellbakedtech)
-- 🌱 I’m currently learning **Reinforcement Learning and Advanced AI Techniques**
-- 👯 I’m looking to collaborate on **Open Source AI/ML Projects**
-- 🤔 I’m looking for help with **Scaling AI Applications**
-- 💬 Ask me about **Data Science, Computer Vision, NLP, Cloud Computing, IoT, Robotics**
-- 📫 How to reach me: **ritikduttagd@gmail.com**
-- ⚡ Fun fact: **I love sketching, game designing, making IoT-based projects and automating things, and I love to explore space and the universe!**
+- 🔭 **Currently:** Tech Lead (AI & Back-End) at **Animal Badge Marketing**, building GenAI-powered products and cloud-scale backends.  
+- 🌱 **Learning:** Graph-based LLMs, Retrieval-Augmented Generation, and serverless MLOps.  
+- 👯 **Open to collab on:** Cutting-edge **Generative AI, Computer Vision, and Data Engineering** open-source projects.  
+- 🤔 **Looking for insight into:** Cost-efficient deployment of large multi-modal models.  
+- 💬 **Ask me about:** GenAI, ETL pipelines, Flask REST APIs, AWS / GCP architecture, or Datamigrato.  
+- 📫 **Reach me:** ritikduttagd@gmail.com · [Portfolio](https://ritikdutta.com)  
+- ⚡ **Fun fact:** I once coded 48 hours non-stop at a hackathon—and still snagged “Best Prototype”!  
 
 ---
 
 <!-- Skills -->
 ## 🛠️ My Tech Stack
 
-### 💻 Programming & Markup Languages
-
+### 💻 Programming & Markup
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-### 🚀 Frameworks & Libraries
-
+### 📚 ML / Data Libraries
+![scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC6C00?style=flat-square&logo=apache&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/-HuggingFace-FFB000?style=flat-square&logo=HuggingFace&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-4B8BBE?style=flat-square&logo=Chainlink&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+
+### 🏗️ Backend & Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-005571?style=flat-square&logo=fastify&logoColor=white)
 
 ### ☁️ Cloud & Databases
-
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=Apache-Cassandra&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 
 ### 🧰 DevOps & CI/CD
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
